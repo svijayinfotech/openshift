@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1> This is OPENSHIFT CONSOLE Based PHP Page 2019 - October Month </h1>
+<h1> HAPPY DEEPAVALI 2019 FOLKS </h1>
 <?php
-echo "This is my openshift world";
 ?>
 </body>
 </html>
