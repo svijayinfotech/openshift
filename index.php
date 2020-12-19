@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1> FORD </h1>
-<h1> TATA </h1>
-<h1> NISSAN </h1>
+<h1> FORD FreeStyle </h1>
+<h1> TATA Nexon </h1>
+<h1> NISSAN Magnite </h1>
 <?php
 ?>
 </body>
