@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1> HAPPY CHRISTMAS 2020 </h1>
+<h1> HAPPY NEW YEAR 2021 </h1>
 <?php
 ?>
 </body>
